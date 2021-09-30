@@ -1,7 +1,7 @@
 # Your name: Jia-Tong Choo
 # Your student id: 22705742
 # Your email: jchoo@umich.edu
-# List who you have worked with on this homework:
+# List who you have worked with on this homework: Claire Zuo, Sarayu Dandamudi
 
 import unittest
 
