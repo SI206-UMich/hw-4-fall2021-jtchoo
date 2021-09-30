@@ -1,3 +1,7 @@
+# Your name: Jia-Tong Choo
+# Your student id: 22705742
+# Your email: jchoo@umich.edu
+# List who you have worked with on this homework:
 
 import unittest
 
@@ -103,7 +107,7 @@ class Stall:
 
     def __str__(self):
         menu_keys = self.inventory.keys()
-        return "Hello, we are " + self.name + ". This is the current menu " + str(menu_keys) + ". We charge $" + str(self.cost) + " per item. We have $" + self.earnings + " in total."
+        return "Hello, we are " + self.name + ". This is the current menu " + str(menu_keys) + ". We charge $" + str(self.cost) + " per item. We have $" + str(self.earnings) + " in total."
 
 
 
