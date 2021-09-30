@@ -239,7 +239,7 @@ def main():
     #case 1: the cashier does not have the stall 
     cus_1.validate_order(cash_1, stall_2, "noodles", 5)
     cus_2.validate_order(cash_2, stall_1, "sandwich", 5)
-    cus_3.validate_order(cash_1, stall_2, "rice", 5)
+    cus_3.validate_order(cash_1, stall_2, "rice", 6)
     
     #case 2: the casher has the stall, but not enough ordered food or the ordered food item
     cus_1.validate_order(cash_1, stall_1, "burger", 35)
